@@ -1,0 +1,167 @@
+body {
+	
+}
+
+.header_links {
+	padding: 10px;
+	margin-left: 15%; 
+}
+/*background ; #ccffff*/
+/*#9a99ff*/
+.header_part {
+	display: flex;
+	background-color: #9a99ff;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+}
+
+.header_img {
+	margin-left: 20%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.header_part_content {
+	margin-left: 260px;
+	padding-left: 100px;
+	padding-top: 30px;
+	display: flex;
+}
+
+.header_p {
+	padding: 15px;
+	font-family: sans-serif;
+	color: black;
+}
+
+.dropbtn {
+    background-color: transparent;
+    font-family: sans-serif;
+    padding-top: 30px;
+    font-size: 16.5px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+	display: block;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+.dropdown-content a:hover {
+	background-color: #CCCCCC;
+	border-bottom-color: red;
+	color: red;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.header2 {
+	background-color: #ccffff;
+	border-bottom: 2px solid grey;
+}
+
+.images {
+	display: flex;
+}
+
+/* .slide {
+	padding: 50px;
+	border-bottom: 1px solid;
+} */
+
+.description {
+	display: flex;
+	margin-top: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.imgpart {
+	margin-right: 20px;
+}
+
+#fpart {
+	display: flex;
+	background-color: #9999FF;
+}
+
+#fimgs {
+	padding: 10px;
+
+}
+
+.head {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+}
+
+.shead {
+	font-family: sans-serif;
+	font-size: 13px;
+	color: grey;
+}
+
+#more {
+	color: red;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.destinations {
+	margin-top: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#titre {
+	font-family: sans-serif;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+.flags {
+	display: flex;
+	border-top: 1px solid;
+	border-color: #CCCCCC;
+}
+
+#flag {
+	margin-top: 30px;
+	margin-right: 20px;
+}
+
+#fflag {
+	margin-left: 20px;
+}
+
+#imgflag {
+	padding: 5px;
+	border: 1px solid;
+	border-color: #CCCCCC;
+}
+
+#cityname {
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+#clink {
+	text-decoration: none;
+	color: black;
+}
